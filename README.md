@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Rust**
 - 🤝 I'm looking to collaborate on **Rust** projects
-- 📝 I regularly write articles on [https://hartjn.github.io/](https://hartjn.github.io/)
+<!-- - 📝 I regularly write articles on [https://hartjn.github.io/](https://hartjn.github.io/) -->
 
 
 
