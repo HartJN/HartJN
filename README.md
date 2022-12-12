@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hartjn&label=Profile%20views&color=0e75b6&style=flat" alt="hartjn" /> </p>
 
-- 🌱 I’m currently learning **React and Rust**
-- 🤝 I'm looking to collaborate on **Rust** projects
+- 🌱 I’m currently learning **Typescript and Rust**
+- 🤝 I'm looking to collaborate on **Rust, Node.js** projects
 <!-- - 📝 I regularly write articles on [https://hartjn.github.io/](https://hartjn.github.io/) -->
 
 
